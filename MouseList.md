@@ -10,6 +10,8 @@ MOUSE LIST:
 
 --Glorious Model D Forge
 
---WLMouse BeastX
+--WLMouse BeastX (Traded)
 
 --Xtrfy MZ1 Wireless
+
+--Razer DeathAdder V3 Pro Faker Edition
